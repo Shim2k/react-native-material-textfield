@@ -70,7 +70,8 @@ export default class TextField extends PureComponent {
 
     tintColor: PropTypes.string,
     textColor: PropTypes.string,
-    baseColor: PropTypes.string, 
+    baseColor: PropTypes.string,
+      
     textAlign: PropTypes.string,
 
     label: PropTypes.string.isRequired,
